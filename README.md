@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lkaranl)](https://github.com/lkaranl)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-luciano-silva-2b7598159/)](https://www.linkedin.com/in/karan-luciano-silva-2b7598159/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5569992370744&text=Olá!)](https://api.whatsapp.com/send?phone=5569992370744&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5569992370744&text=Olá! Te achei no GitHub)](https://api.whatsapp.com/send?phone=5569992370744&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanluciano1@gmail.com)](mailto:karanluciano1@gmail.com)
 
 ## Hi! 👋
