@@ -7,7 +7,7 @@
 
 ## Hi! 👋
 
-My name is Karan Luciano, Computer scientist at the Universidade Estadual do Estado de Mato Grosso (UNEMAT) and master in computer science at the Universidade Federal do Amazonas (UFAM). Great technology enthusiast and lover of the GNU / Linux system.
+My name is Karan Luciano, computer scientist at the Universidade Estadual do Estado de Mato Grosso (UNEMAT) and master in computer science at the Universidade Federal do Amazonas (UFAM). Great technology enthusiast and lover of the GNU / Linux system.
 
 - :office_worker: 
 - :fire: Techs: Sheel Script, Python, PHP, Laravel Framework, Servers, among others.
