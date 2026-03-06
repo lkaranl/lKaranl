@@ -24,6 +24,16 @@ I am a great technology enthusiast, passionate about GNU/Linux systems, and dedi
 
 ---
 
+### 🏆 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LPIC--1-Linux_Administrator-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="LPIC-1 Certification" />
+  <img src="https://img.shields.io/badge/LPIC--2-Linux_Engineer-orange?style=for-the-badge&logo=linux&logoColor=black" alt="LPIC-2 Certification" />
+  <img src="https://img.shields.io/badge/LPIC--3-Linux_Enterprise_Professional-red?style=for-the-badge&logo=linux&logoColor=white" alt="LPIC-3 Certification" />
+</div>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <div align="center">
