@@ -1,39 +1,72 @@
-# :man_technologist: Karan Luciano
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hello%20World!&fontSize=70&fontAlignY=38&desc=I'm%20Karan%20Luciano&descAlignY=58&descAlign=50" alt="header banner"/>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lkaranl)](https://github.com/lkaranl)
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-luciano-silva-2b7598159/)](https://www.linkedin.com/in/karan-luciano-silva-2b7598159/)-->
-<!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5569992370744&text=Olá!)](https://api.whatsapp.com/send?phone=5569992370744&text=Olá!)-->
-<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanluciano1@gmail.com)](mailto:karanluciano1@gmail.com)-->
-
-## Hi! 👋
-
-My name is Karan Luciano, computer scientist at the Universidade Estadual do Estado de Mato Grosso (UNEMAT) and master in computer science at the Universidade Federal do Amazonas (UFAM). Great technology enthusiast and lover of the GNU / Linux system.
-
-- :office_worker: 
-- :fire: Techs: Sheel Script, Python, PHP, Laravel Framework, Servers, among others.
-- :books: Studying all layers in Software Development and Open Source
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lkaranl/lKaranl/master/awk.png"></code>
-
-## My Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=lkaranl&show_icons=true&hide_border=false)
-
-> :octocat: [lkaranl.github.io](https://lkaranl.github.io)
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=530&lines=Development+and+University+Professor;Computer+Scientist;GNU%2FLinux+%2F+Open+Source+Enthusiast" alt="Typing SVG" />
+  </p>
+</div>
 
 ---
+
+### 👨‍💻 About Me
+
+Welcome to my GitHub! I am a **Development and University Professor** aiming to shape the future of tech, a **Computer Scientist** graduated from the State University of Mato Grosso (UNEMAT), and I hold a **Master's degree in Computer Science** from the Federal University of Amazonas (UFAM). 
+
+I am a great technology enthusiast, passionate about GNU/Linux systems, and dedicated to teaching and building robust software.
+
+- 🔭 Currently working with: **Java, C#, Rust, and Web Technologies**.
+- 🎓 Passionate about: **Sharing knowledge and mentoring students**.
+- 🌱 Studying: **All layers of Software Development and System Architecture**.
+- 💬 Ask me about: **Linux, Backend Engineering, or Academic Research**.
+- 🌐 Portfolio / Website: **[lkaranl.github.io](https://lkaranl.github.io)**
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,rust&perline=10" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&perline=10" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,php,c,cpp,ruby&perline=10" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,git,webpack,docker&perline=10" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/lkaranl">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lkaranl&show_icons=true&theme=dracula" alt="lkaranl's Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lkaranl&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkaranl&theme=dracula" alt="lkaranl's GitHub Streak" />
+</div>
+
+---
+
+### 📬 Let's Connect!
+
+<div align="center">
+  <a href="https://github.com/lkaranl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/karan-luciano-silva-2b7598159/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:karanluciano1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5569992370744&text=Hello!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+  </a>
+</div>
