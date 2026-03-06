@@ -16,10 +16,12 @@
 <table>
   <tr>
     <td width="60%">
-      Welcome to my GitHub! I am a <b>Development and University Professor</b> aiming to shape the future of tech, a <b>Computer Scientist</b> graduated from the State University of Mato Grosso (UNEMAT), and I hold a <b>Master's degree in Computer Science</b> from the Federal University of Amazonas (UFAM). 
-      <br /><br />
-      I am a great technology enthusiast, passionate about GNU/Linux systems, and dedicated to teaching and building robust software.
-      <br /><br />
+      <p align="justify">
+        Welcome to my GitHub! I am a <b>Development and University Professor</b> aiming to shape the future of tech, a <b>Computer Scientist</b> graduated from the State University of Mato Grosso (UNEMAT), and I hold a <b>Master's degree in Computer Science</b> from the Federal University of Amazonas (UFAM). 
+      </p>
+      <p align="justify">
+        I am a great technology enthusiast, passionate about GNU/Linux systems, and dedicated to teaching and building robust software.
+      </p>
       <ul>
         <li>🔭 Currently working with: <b>Java, C#, Rust, and Web Technologies</b>.</li>
         <li>🎓 Passionate about: <b>Sharing knowledge and mentoring students</b>.</li>
